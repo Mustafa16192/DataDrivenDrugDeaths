@@ -8,6 +8,7 @@ This repository contains a data analysis project focusing on drug-related deaths
 
 - `Drug_Deaths_Analysis.ipynb`: Jupyter Notebook containing the code and insights.
 - `Drug_Deaths_Analysis.html`: HTML version of the Jupyter Notebook for easier viewing.
+- `Report.pdf`: Detailed project report summarizing methodology and insights.
 
 ## Insights
 
@@ -17,10 +18,15 @@ Explore the Jupyter Notebook to discover insights into:
 - Identification of demographic clusters.
 - Mapping geospatial hotspots of drug-related deaths.
 
+## Project Report
+
+For a comprehensive overview of the project, methodology, and key insights, refer to the [Project_Report.pdf](Project_Report.pdf) file.
+
 ## How to Use
 
 1. Open the Jupyter Notebook (`Drug_Deaths_Analysis.ipynb`) to view the code and detailed insights.
 2. Alternatively, check the HTML version (`Drug_Deaths_Analysis.html`) for a convenient, non-interactive overview.
+3. Refer to the project report (`Project_Report.pdf`) for a detailed summary of the analysis.
 
 ## Contributing
 
