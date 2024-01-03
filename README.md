@@ -26,7 +26,7 @@ For a comprehensive overview of the project, methodology, and key insights, refe
 
 1. Open the Jupyter Notebook (`Drug_Deaths_Analysis.ipynb`) to view the code and detailed insights.
 2. Alternatively, check the HTML version (`Drug_Deaths_Analysis.html`) for a convenient, non-interactive overview.
-3. Refer to the project report (`Project_Report.pdf`) for a detailed summary of the analysis.
+3. Refer to the project report (`Report.pdf`) for a detailed summary of the analysis.
 
 ## Contributing
 
